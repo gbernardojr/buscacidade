@@ -1,0 +1,21 @@
+from vertice import Vertice
+class Grafo:
+    araraquara = Vertice('Araraquara')
+    dobrada = Vertice('Dobrada')
+    motuca = Vertice('Motuca')
+    gaviaopeixoto = Vertice('GaviaoPeixoto')
+    santalucia = Vertice('SantaLucia')
+    americobrasiliense = Vertice('AmericoBrasiliense')
+    ibate = Vertice('Ibate')
+    ribeiraobonito = Vertice('RibeiraoBonito')
+    boaesperancadosul = Vertice('BoaEsperancaDoSul')
+    novaeuropa = Vertice('NovaEuropa')
+    matao = Vertice('Matao')
+    ibitinga = Vertice('Ibitinga')
+    itapui = Vertice('Itapui')
+    brotas = Vertice('Brotas')
+    jau = Vertice('Jau')
+    saocarlos = Vertice('SaoCarlos')
+    rincao = Vertice('Rincao')
+    buenodeandrada = Vertice('BuenoDeAndrada')
+
